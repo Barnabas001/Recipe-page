@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   margin: 0;
-  background-color: hsl(29, 53%, 90%)
+  background-color: hsl(29, 53%, 90%);
   font-family: Young Serif, arial;
 }
 
