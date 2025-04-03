@@ -110,3 +110,24 @@ td:last-child {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+@media (min-width: 25rem) {
+  body {
+    padding: 2rem;
+  }
+
+  .container {
+    margin: 8% 0;
+    max-width: 40rem;
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+
+  section {
+    padding: 1.5rem 0;
+  }
+
+  .omelette-image {
+    border-radius: 1rem;
+  }
+}
